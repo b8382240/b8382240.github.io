@@ -1,0 +1,47 @@
+nav{
+	display: flex;
+	justify-content: space-around;
+	flex-wrap: wrap;
+}
+header{
+	background-image: url(./pitsa.jpg);
+}
+nav p{
+	color: white;
+	margin-bottom: 250px;
+}
+body{
+	margin: 0px;
+}
+.before{
+	display: flex; 
+	flex-wrap: wrap;
+}
+.before button{
+	background-color: greenyellow;
+	border-radius: 8px;
+	width: 150px;
+	height: 35px;
+  margin-top: 10px;
+	color: white;
+}
+.second button{
+	background-color: greenyellow;
+	border-radius: 8px;
+	width: 150px;
+	height: 35px;
+  margin-top: 10px;
+	color: white;
+	margin-bottom: 120px;
+}
+.second p{
+  color: white;
+}
+.second h1{
+	color: white;
+	width: 120px;
+}
+.second{
+	max-width: 55%;
+	margin: auto;
+}
